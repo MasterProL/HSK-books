@@ -25,7 +25,13 @@ The repository is designed to help Chinese learners access HSK study books and r
 
 ## Contribution Note
 
-This repository is intended to be a simple, organized collection of HSK study resources. Feel free to add or improve materials in the appropriate level folder to help other learners.
+To keep this repository useful and safe for public use, please follow these simple guidelines before adding materials:
+
+- Only add study resources that you created yourself or that you are authorized to share. Do not upload copyrighted books, scans, or full texts without permission.
+- Prefer common, accessible formats such as `.pdf`, `.docx`, `.txt`, `.md`, or image files when appropriate.
+- Keep files in the correct HSK level folder and use clear, descriptive filenames that make the content easy to find.
+- If a file is adapted from another source, include a short note about the source or licensing status when possible.
+- If you are unsure whether content is appropriate to add, please avoid uploading it until you have checked the rights and structure.
 
 ## Notes
 
