@@ -23,8 +23,11 @@ The repository is designed to help Chinese learners access HSK study books and r
 2. Browse the available materials and practice content.
 3. Use the files to support your HSK exam preparation.
 
+## Contribution Note
+
+This repository is intended to be a simple, organized collection of HSK study resources. Feel free to add or improve materials in the appropriate level folder to help other learners.
+
 ## Notes
 
 - Keep the folder structure intact for easier navigation.
 - If you add more materials, place them in the folder matching the HSK level.
-
